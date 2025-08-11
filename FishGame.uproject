@@ -27,6 +27,14 @@
 		{
 			"Name": "KB_MultiWindow_E",
 			"Enabled": true
+		},
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
+		},
+		{
+			"Name": "Locomotor",
+			"Enabled": true
 		}
 	]
 }
